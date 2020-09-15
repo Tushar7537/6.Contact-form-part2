@@ -1,0 +1,35 @@
+img{
+	max-width: 100%;
+}
+
+.navar-brand{
+	max-width: 150px;
+}
+
+header{
+	background-color: #f14d91;
+	padding: 150px 0px;
+	text-align: center;
+}
+
+header h1{
+	
+color: #fff;
+	
+font-size: 60px;
+	
+text-shadow: 3px 4px 3px #0000006e;
+}
+
+.signup-section{
+	padding: 50px 0px;
+}
+
+.login-section{
+
+}
+
+.login-section .row {
+	height: 90vh;
+    align-items: center;
+}
